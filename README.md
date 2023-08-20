@@ -26,13 +26,13 @@ You'll do this by guessing individual letters to fill in the boxes and ultimatel
 
 ***3. Letter Feedback:***
   
-  ***Green Boxes:*** If a box turns green after you've guessed a letter, it means that the letter is present in the secret word, and it's in the correct position.
+  - ***Green Boxes:*** If a box turns green after you've guessed a letter, it means that the letter is present in the secret word, and it's in the correct position.
   
-  ***Yellow Boxes:*** A yellow box indicates that the guessed letter is indeed in the secret word, but it's positioned differently than where you placed it.
+  - ***Yellow Boxes:*** A yellow box indicates that the guessed letter is indeed in the secret word, but it's positioned differently than where you placed it.
   
-  ***Grey Boxes:*** If a box remains grey, it signifies that the guessed letter is not present in the secret word at all.
+  - ***Grey Boxes:*** If a box remains grey, it signifies that the guessed letter is not present in the secret word at all.
  
-  ***Filling in the Word:*** As you guess letters, correctly guessed ones will be filled into their respective boxes based on the feedback provided. This gradually unveils the mystery word.
+  - ***Filling in the Word:*** As you guess letters, correctly guessed ones will be filled into their respective boxes based on the feedback provided. This gradually unveils the mystery word.
 
 
 ***4. Limited Attempts:*** Be cautious! You have a set number of attempts to guess the entire word correctly. If you exceed this limit without revealing the word, the game concludes.
